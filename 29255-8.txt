@@ -792,7 +792,7 @@ clear?"
 gruffly.
 
 "You choose to put it indelicately. He is to see and hear only such
-things about the Science Community as well please the world and impress
+things about the Science Community as will please the world and impress
 it favorably. I am sure you will understand that under no other
 circumstances will he be permitted to leave here."
 
@@ -912,7 +912,7 @@ never saw before--"
 "Oh, mostly tropical forms, common enough in their own habitats. They
 have steam pipes under the ground to grow them. I've been trying to
 learn something about them. Fancy _me_ studying natural history! I've
-never cared for it, but here, where there is no such thing as
+never cared for it, but here, where there is no such things as
 recreation, I have become intensely interested in it as a hobby. I find
 it very much of a rest to study these plants and bugs."
 
@@ -1026,7 +1026,7 @@ me off in a nervous hurry without a word of explanation; his lined and
 worried face and yet his insistence on the joys of his work in The
 Science Community; his obvious desire to be hospitable and play the good
 host, and yet his evasiveness and unwillingness to chat intimately and
-discuss important thing as he used to. Finally, that notebook full of
+discuss important things as he used to. Finally, that notebook full of
 odd specimens bulging in my pocket. And the memory of his words as he
 shook hands with me when I was stepping into the bus:
 
@@ -7864,7 +7864,7 @@ afternoon."
 "How will we see them if they are invisible?"
 
 "They are invisible to ordinary light but not to ultra-violet light.
-While most of the ultra-violet is deflected and flows around the ship of
+While most of the ultra-violet is deflected and flows around the ship or
 else is absorbed, I have an idea that, if we bathe it in a sufficient
 concentration of ultra-violet, some would be reflected. We are going to
 look for the reflected portion."
@@ -7944,7 +7944,7 @@ are. When you have it lined up, push this button and the gun will fire."
 and will fire one shot each time the button is pushed until it is empty.
 If you empty one magazine, I can turn the ship so that another gun will
 bear. This gives you a total of one hundred and twenty shots quickly
-available; there are sixty extra pounds, which we can break out and load
+available; there are sixty extra rounds, which we can break out and load
 into the magazines in a few seconds. Do you understand everything?"
 
 "I guess so. Everything seems clear enough."
